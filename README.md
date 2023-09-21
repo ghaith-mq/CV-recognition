@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Build an end-to-end facial keypoint recognition system using computer vision techniques and deep learning. Facial keypoints include points around the eyes, nose, and mouth on any face and are used in many applications, from facial tracking to emotion recognition. The system can take in any image or video containing faces and identify the location of each face and their facial keypoints. This is implemented in PyTorch.
+Build an end-to-end facial key point recognition system using computer vision techniques and deep learning. Facial key points include points around the eyes, nose, and mouth on any face and are used in many applications, from facial tracking to emotion recognition. The system can take in any image or video containing faces and identify the location of each face and its facial key points. This is implemented in PyTorch.
 
 The project will be broken up into a few main parts in four Python notebooks:
 
@@ -27,8 +27,7 @@ __Notebook 4__ : Fun Filters and Keypoint Uses
 1. Clone the repository, and navigate to the downloaded folder.
 
 ```
-git clone https://github.com/ntrang086/detect_facial_keypoints.git
-cd detect_facial_keypoints/pytorch
+git clone https://github.com/ghaith-mq/CV-recognition.git
 ```
 
 2. Create (and activate) a new environment with Python 3.6 and the `numpy` and `pandas` packages for data loading and transformation. If prompted to proceed with the install `(Proceed [y]/n)` type y.
